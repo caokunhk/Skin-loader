@@ -23,4 +23,13 @@ public class Main2Activity extends AppCompatActivity {
     public void feature1(View view) {
         Log.i("123","feature1");
     }
+
+
+    public void feature2(View view) {
+        Log.i("123","feature2");
+    }
+
+    public void feature5(View view) {
+        Log.i("123","feature5");
+    }
 }
